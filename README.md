@@ -1,21 +1,5 @@
 # Gitlet Design Document
-author:
 
-## Design Document Guidelines
-
-Please use the following format for your Gitlet design document. Your design
-document should be written in markdown, a language that allows you to nicely 
-format and style a text file. Organize your design document in a way that 
-will make it easy for you or a course-staff member to read.  
-
-## 1. Classes and Data Structures
-
-Include here any class definitions. For each class list the instance
-variables and static variables (if any). Include a ***brief description***
-of each variable and its purpose in the class. Your explanations in
-this section should be as concise as possible. Leave the full
-explanation to the following sections. You may cut this section short
-if you find your document is too wordy.
 
 ### Main
 #### Description
